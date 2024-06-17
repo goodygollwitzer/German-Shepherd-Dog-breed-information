@@ -1,0 +1,38 @@
+img {
+  margin-left: 365px;
+  margin-top: 50px;
+  width: 200px;
+}
+
+h4{
+  margin:0px;
+  margin-left: 385px;
+  padding:0px;
+}
+
+#first-para{
+  
+ margin:0px;
+  margin-left: 400px;
+  padding:0px;
+  opacity: 0.5;
+}
+.second-paragraph{
+  margin-left:20px;
+  
+  
+}
+
+h2 {
+ margin-left: 350px
+}
+
+button{
+  margin-left:50px;
+  height: 50px;
+  width: 150px;
+  background-color: yellow;
+  color: navy blue;
+    
+}
+
